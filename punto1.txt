@@ -1,0 +1,11 @@
+las ventajas y beneficios del modelamiento de un proyecto de desarrollo de software:
+
+-se logra una exposición del proyecto mas clara y facil de entender para todos los miembros del equipo de trabajo.
+
+-se establecen estrategias de trabajo para materializar de manera mas eficiente las ideas pensadas para el proyecto.
+
+-permite una mejor organizacion y orientacion del equipo de trabajo el cual tendra un accionamiento mas eficiente respecto a su labor debido a que conocera el proyecto a grandes rasgos y simplificado.
+
+La capacidad de un ingeniero de software para modelar de forma correcra un proyecto de software es necesaria e importante para poder manejar de manera acertada un equipo de trabajo y asi tener un orden y una orientacion de acuerdo a los objetivos que se tienen.
+
+De acuerdo a un articulo publicado por la Universidad de Veracruz sobre el Desarrollo de software, un modelado " Debe incluir sólo aquellas actividades, controles y productos del trabajo que sean apropiados para el equipo del proyecto y para el producto que se busca obtener." todo proceder que se encuentre fuera de este marco equematico del modelo sera visto como algo que no contribuya significativamente sobre la realizacion del proyecto, y uningeniero de software debe ser un lider capacitado para mantener a su equipo de trabajo centrado en un marco eficiente para lograr una entrega de valor significativo al cliente.

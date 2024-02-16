@@ -1,0 +1,4 @@
+referencia punto 1:
+Universidad Veracruz, procesos para la ingenieria de software.
+
+https://www.uv.mx/personal/ermeneses/files/2018/02/Clase8-Modelos_de_procesos_de_desarrollo_de_softwareI.pdf
