@@ -1,0 +1,21 @@
+Las ceremonias de scrum se componen de.
+
+1.Sprint plannig:
+
+Es la ceremonia de inicio del sprint, en ella se establece el objetivo del sprint y el compromiso de llegar a el. Para un sprint de un mes el sprint 
+planning suele tener una duracion maxima de 8 horas.
+
+2.Daily Scrum:
+
+Esta ceremonia de realiza cada dia con el fin de que el equipo de desarrollo sincronize sus actividades. suele tener una duracion maxima de
+15 minutos
+
+3.Sprint revew:
+
+cerca de la finalizacion del sprint se muestran los avances e incrementos del producto para su inspeccion, para sprints de 1 mes tiene una duracion
+maxima de 4 horas.
+
+4.Sprint Restrospective:
+
+Es la ceremonia de cierre del Sprint, despues del sprint review el equipo de desarrollo se reune para identificar accionables de mejora y asi poder
+aplicarlos en el siguente sprint. 
