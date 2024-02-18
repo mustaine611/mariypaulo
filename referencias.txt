@@ -1,4 +1,10 @@
-referencia punto 1:
+referencia punto 3:
 Universidad Veracruz, procesos para la ingenieria de software.
 
 https://www.uv.mx/personal/ermeneses/files/2018/02/Clase8-Modelos_de_procesos_de_desarrollo_de_softwareI.pdf
+
+referencia punto 4:
+
+SCRUMstudy, Guia de los fundamentos de Scrum.
+
+www.scrumstudy.com 
