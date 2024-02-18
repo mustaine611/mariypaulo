@@ -1,0 +1,13 @@
+Los "casos de prueba" son representaciones hipoteticas de las acciones que realizaria un usuario al utilizar determinado programa, estas representaciones deben ser tomadas en cuenta antes de hacer una entrega de valor al cliente, debido a que el software debe prepararse para no arrojar fallos de gravedad o inentendibles por el usuario si este llevara a cabo una mal proceso o si el software no prove la informacion necesaria.
+
+los casos de prueba son documentaciones que deben abarcar capos como:
+
+-identificador unico.
+-objetivo.
+-prioridad.
+-trazabilidad.
+-precondiciones.
+-entradas.
+-resultados esperados.
+-resultados actuales.
+
