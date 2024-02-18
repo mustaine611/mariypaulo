@@ -1,0 +1,4 @@
+El testing es una actividad en un sprint donde se analizan las funcionalidades que se planea desarrollar donde se verifica si estas son viables o no.
+
+Las historias de usuario se testean sometiendolas a un analisis donde se toman en cuenta los criterios de aceptacion propuestos por el equipo de
+desarrollo, si dicha historia de usuario logra un resultado  positivo luego de contraponerla con los criterios, entonces la historia pasa a la etapa de confirmacion, donde se convertira en una tarea. 
