@@ -1,0 +1,33 @@
+Las historias de usuario son pequeñas fracciones de informacion que suelen ser elaboradas por la persona a cargo del rol de product Owner 
+compuestas as su vez de otros elementos que son parte del concepto de la triple C.
+
+Card:
+
+Haciendo alusion a una pequeña nota donde se ejemplifica la peticion de un usuario de una funcionalidad específica en el porducto.
+
+ejemplo: 
+
+Yo como usuario quiero un boton para compartir en la aplicacion web.
+
+Esto se usa con el porposito de exponer lo mas directa y claramente posible la funcionalidad que se desea tener en el producto.
+
+Conversacion:
+
+que se refiere a un pequeño lapso de tiempo donde se explica de manera verbal los aspectos de la funcionalidad que sean complicados de resumir en unanota.
+
+Esto suele llevarse a cabo durante o despues de exponer los "criterios de aceptacion" que son los requisitos que deben tomarse en cuenta a la hora de
+diseñar la funcionalidad antes expuesta.
+
+Ejemplo:
+
+para poder diseñar un boton de compartir debe tomarse en cuenta las apis para enlazar a una aplicacion con otra y asi poder transferir datos entre
+ellas. 
+
+Confirmacion:
+
+Que es la ultima fase de la historia de usuario donde se decide si se lleva a cabo o no el desarrollo de la funcionalidad.
+
+Las historias de usuario se usan para una exposición clara, rapida y directa de las funcionalidades que un cliente quiere implementar.
+
+Sus beneficios son mayor facilidad de entendimiento a la hora de presentar los conceptos al equipo de trabajo y mayor eficiencia a la hora de
+coordinar el equipo.
